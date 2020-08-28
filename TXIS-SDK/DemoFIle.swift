@@ -18,9 +18,3 @@ public class DemoClass: NSObject {
     }
 }
 
-internal class Person: NSObject {
-    class func showLogs() {
-        print("Log show successfully")
-    }
-    
-}
